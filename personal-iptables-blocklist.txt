@@ -21,3 +21,9 @@
 # 
 45.227.254.0/24
 193.57.40.0/24
+
+# https://raw.githubusercontent.com/ipverse/asn-ip/master/as/48721/ipv4-aggregated.txt
+# AS48721 (FLYSERVERS-ENDCLIENTS)
+# Flyservers S.A.
+#
+194.165.16.0/23
