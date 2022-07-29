@@ -28,12 +28,14 @@
 #
 194.165.16.0/23
 
+# https://raw.githubusercontent.com/ipverse/asn-ip/master/as/213010/ipv4-aggregated.txt
 # AS213010 (GIGAHOSTINGSERVICES)
 # GigaHostingServices OU
 #
 176.111.173.0/24
 193.169.255.0/24
 
+# https://raw.githubusercontent.com/ipverse/asn-ip/master/as/399471/ipv4-aggregated.txt
 # AS399471 (SERVERION)
 # Serverion LLC
 #
