@@ -19,3 +19,7 @@ GigaHostingServices OU
 https://raw.githubusercontent.com/ipverse/asn-ip/master/as/399471/ipv4-aggregated.txt \
 AS399471 (SERVERION) \
 Serverion LLC
+
+https://raw.githubusercontent.com/ipverse/asn-ip/master/as/202425/ipv4-aggregated.txt \
+AS202425 (INT-NETWORK) \
+IP Volume inc
