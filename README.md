@@ -15,3 +15,7 @@ Flyservers S.A.
 https://raw.githubusercontent.com/ipverse/asn-ip/master/as/213010/ipv4-aggregated.txt \
 AS213010 (GIGAHOSTINGSERVICES) \
 GigaHostingServices OU
+
+https://raw.githubusercontent.com/ipverse/asn-ip/master/as/399471/ipv4-aggregated.txt \
+AS399471 (SERVERION) \
+Serverion LLC
