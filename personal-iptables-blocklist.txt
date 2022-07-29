@@ -27,3 +27,10 @@
 # Flyservers S.A.
 #
 194.165.16.0/23
+
+# AS213010 (GIGAHOSTINGSERVICES)
+# GigaHostingServices OU
+#
+176.111.173.0/24
+193.169.255.0/24
+
