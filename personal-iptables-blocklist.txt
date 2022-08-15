@@ -54,6 +54,7 @@
 207.135.230.39
 111.70.1.237
 172.91.13.213
+2.82.169.136
 
 # https://raw.githubusercontent.com/ipverse/asn-ip/master/as/202425/ipv4-aggregated.txt
 # AS202425 (INT-NETWORK)
