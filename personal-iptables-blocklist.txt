@@ -77,7 +77,6 @@
 67.243.64.101
 122.154.156.234
 
-
 # https://raw.githubusercontent.com/ipverse/asn-ip/master/as/202425/ipv4-aggregated.txt
 # AS202425 (INT-NETWORK)
 # IP Volume inc
