@@ -106,6 +106,17 @@
 #
 194.165.16.0/23
 
+# https://asn.ipinfo.app/api/text/list/AS209588 (IPv4 Only)
+# AS209588 (FLYSERVERS-ASN, PA)
+# FLYSERVERS-ASN, PA
+141.98.81.0/24
+179.60.147.0/24
+141.98.83.0/24
+141.98.82.0/24
+141.98.9.0/24
+81.19.135.0/24
+147.78.47.0/24
+
 # https://raw.githubusercontent.com/ipverse/asn-ip/master/as/213010/ipv4-aggregated.txt
 # AS213010 (GIGAHOSTINGSERVICES)
 # GigaHostingServices OU
