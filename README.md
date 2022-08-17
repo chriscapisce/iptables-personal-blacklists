@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/ipverse/asn-ip/master/as/48721/ipv4-aggregated
 AS48721 (FLYSERVERS-ENDCLIENTS) \
 Flyservers S.A.
 
-https://asn.ipinfo.app/api/text/list/AS209588 \
+https://asn.ipinfo.app/api/text/list/AS209588 (Ipv4 Only) \
 AS209588 (FLYSERVERS-ASN, PA) \
 FLYSERVERS-ASN, PA
 
