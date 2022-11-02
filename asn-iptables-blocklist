@@ -1,9 +1,13 @@
 #!/bin/bash
 
 BEL=(
-  "http://ipverse.net/ipblocks/data/countries/be.zone"
-  "http://ipverse.net/ipblocks/data/countries/nl.zone"
-  "http://ipverse.net/ipblocks/data/countries/lu.zone"
+  "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/202425/ipv4-aggregated.txt"
+  "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/267784/ipv4-aggregated.txt"
+  "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/48721/ipv4-aggregated.txt"
+  "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/209588/ipv4-aggregated.txt"
+  "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/213010/ipv4-aggregated.txt"
+  "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/399471/ipv4-aggregated.txt"
+  "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/51447/ipv4-aggregated.txt"
 )
 
 IP_BEL_TMP=$(mktemp)
