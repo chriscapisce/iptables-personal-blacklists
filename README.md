@@ -2,7 +2,7 @@ I created custom IPtables lists like so:
 
 ### 1. Create Local Blacklist File
 
-Create a file in: 'root@host:/usr/local/hestia/data/firewall/ipset#' \
+Create a file in: 'root@host:/usr/local/hestia/data/firewall/ipset#'
 
 	nano asn-personal-blacklist.sh
     
