@@ -24,3 +24,6 @@ https://raw.githubusercontent.com/ipverse/asn-ip/master/as/399471/ipv4-aggregate
 AS399471 (SERVERION) \
 Serverion LLC
 
+https://raw.githubusercontent.com/ipverse/asn-ip/master/as/51447/ipv4-aggregated.txt \
+AS51447 (ROOTLAYERNET) \
+RootLayer Web Services Ltd.
