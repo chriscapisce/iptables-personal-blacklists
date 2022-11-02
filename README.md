@@ -1,29 +1,30 @@
-# iptables-personal-blocklist
+I created custom IPtables lists like so:
 
-https://raw.githubusercontent.com/ipverse/asn-ip/master/as/202425/ipv4-aggregated.txt \
-AS202425 (INT-NETWORK) \
-IP Volume inc
+### 1. Create Local Blacklist File
 
-https://raw.githubusercontent.com/ipverse/asn-ip/master/as/267784/ipv4-aggregated.txt \
-AS267784 (FLYSERVERS-SA) \
-Flyservers S.A.
+Create a file in: 'root@host:/usr/local/hestia/data/firewall/ipset#' \
 
-https://raw.githubusercontent.com/ipverse/asn-ip/master/as/48721/ipv4-aggregated.txt \
-AS48721 (FLYSERVERS-ENDCLIENTS) \
-Flyservers S.A.
+	nano asn-personal-blacklist.sh
+    
+### 2. CHMOD Local Blacklist File
 
-https://raw.githubusercontent.com/ipverse/asn-ip/master/as/209588/ipv4-aggregated.txt \
-AS209588 (FLYSERVERS) \
-Flyservers S.A.
+'root@host:/usr/local/hestia/data/firewall/ipset#'
+ 
+ 	chmod 755 asn-personal-blacklist.sh
 
-https://raw.githubusercontent.com/ipverse/asn-ip/master/as/213010/ipv4-aggregated.txt \
-AS213010 (GIGAHOSTINGSERVICES) \
-GigaHostingServices OU
+##### 2a. Check correct file permissions at 755 being -rwxr-xr-x: 
+		
+    root@host: ls -l
 
-https://raw.githubusercontent.com/ipverse/asn-ip/master/as/399471/ipv4-aggregated.txt \
-AS399471 (SERVERION) \
-Serverion LLC
+### 3. Add IPset to Firewall through HestiaCP GUI.
 
-https://raw.githubusercontent.com/ipverse/asn-ip/master/as/51447/ipv4-aggregated.txt \
-AS51447 (ROOTLAYERNET) \
-RootLayer Web Services Ltd.
+Go to: https://host.yourdomain.com:2083/add/firewall/ipset/
+
+##### 3a. IP List Name: 
+	Local-ASN-IPs-List
+##### 3b. Data Source (url, script or file): 
+	script:/usr/local/hestia/data/firewall/ipset/asn-personal-blacklist.sh
+##### 3c. IP Version:
+	ip v4 
+##### 3d. Auto Update:
+	Yes
