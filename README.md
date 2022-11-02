@@ -6,7 +6,7 @@ Create a file in: 'root@host:/usr/local/hestia/data/firewall/ipset#'
 
 	nano asn-personal-blacklist.sh
     
-### 2. CHMOD Local Blacklist File
+#### 2. CHMOD Local Blacklist File
 
 'root@host:/usr/local/hestia/data/firewall/ipset#'
  
@@ -16,7 +16,7 @@ Create a file in: 'root@host:/usr/local/hestia/data/firewall/ipset#'
 		
     root@host: ls -l
 
-### 3. Add IPset to Firewall through HestiaCP GUI.
+#### 3. Add IPset to Firewall through HestiaCP GUI.
 
 Go to: https://host.yourdomain.com:2083/add/firewall/ipset/
 
