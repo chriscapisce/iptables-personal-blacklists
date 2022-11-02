@@ -14,7 +14,7 @@ Create a file in: 'root@host:/usr/local/hestia/data/firewall/ipset#'
 
 ##### 2a. Check correct file permissions at 755 being -rwxr-xr-x: 
 		
-    root@host: ls -l
+    	root@host: ls -l
 
 #### 3. Add IPset to Firewall through HestiaCP GUI.
 
@@ -28,3 +28,7 @@ Go to: https://host.yourdomain.com:2083/add/firewall/ipset/
 	ip v4 
 ##### 3d. Auto Update:
 	Yes
+
+#### 4. Update Firewall within HestiaCP through terminal.
+
+	v-update-firewall
