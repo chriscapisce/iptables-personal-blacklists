@@ -6,6 +6,8 @@ I have two kinds of blacklists for IPtables within HestiaCP.
 
     root@host: cd /usr/local/hestia/data/firewall/ipset/
   
+    - asn-personal-blacklist.sh
+  
 #### 2. Remote blacklists based on a .txt file. These kinds are hosted on Github.
 
     https://raw.githubusercontent.com/chriscapisce/iptables-personal-blacklists/main/single-ips-iptables-blocklist.txt
