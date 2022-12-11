@@ -9,8 +9,9 @@ Create a file in: 'root@host:/usr/local/hestia/data/firewall/ipset#'
 #### 2. CHMOD Local Blacklist File
 
 ###### 2a. Set correct file permissions:
+	
 	'root@host:/usr/local/hestia/data/firewall/ipset#'
- 
+	
  	chmod 755 asn-personal-blacklist.sh
 
 ##### 2b. Check correct file permissions at 755 being -rwxr-xr-x: 
