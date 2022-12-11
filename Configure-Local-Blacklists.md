@@ -2,15 +2,15 @@ I created custom IPtables lists like so:
 
 #### 1. Create Local Blacklist File
 
-Create a file in: 'root@host:/usr/local/hestia/data/firewall/ipset#'
+Create a file in: root@host:/usr/local/hestia/data/firewall/ipset#
 
 	nano asn-personal-blacklist.sh
     
-#### 2. CHMOD Local Blacklist File
+#### 2. Set correct file permissions
 
-###### 2a. Set correct file permissions:
-	
-	'root@host:/usr/local/hestia/data/firewall/ipset#'
+###### 2a. CHMOD Local Blacklist script asn-personal-backlist.sh
+
+Location: 'root@host:/usr/local/hestia/data/firewall/ipset#'
 	
  	chmod 755 asn-personal-blacklist.sh
 
