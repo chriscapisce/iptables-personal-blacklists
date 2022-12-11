@@ -8,7 +8,7 @@ I have two types or resources for IPtables blacklists within HestiaCP.
   
 - asn-personal-blacklist.sh
   
-#### 2. Remote blacklists based on a .txt file. These kinds are hosted on Github.
+#### 2. Remote blacklists based on a .txt file. These files are hosted on f.e. Github.
 
     https://raw.githubusercontent.com/chriscapisce/iptables-personal-blacklists/main/single-ips-personal-blacklist.txt
     
