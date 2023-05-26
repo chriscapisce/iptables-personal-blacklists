@@ -25,7 +25,13 @@ Go to: https://host.yourdomain.com:2083/add/firewall/ipset/
 ##### 3a. IP List Name: 
 	Local-ASN-IPs-List
 ##### 3b. Data Source (url, script or file): 
+
+ASN:
 	script:/usr/local/hestia/data/firewall/ipset/asn-personal-blacklist.sh
+
+Countries:
+	script:/usr/local/hestia/data/firewall/ipset/countries-personal-blacklist.sh
+	
 ##### 3c. IP Version:
 	ip v4 
 ##### 3d. Auto Update:
