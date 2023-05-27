@@ -33,6 +33,10 @@ ASN:
 Countries:
 
 	script:/usr/local/hestia/data/firewall/ipset/countries-personal-blacklist.sh
+
+AntiSpam:
+
+	script:/usr/local/hestia/data/firewall/ipset/antispam-personal-blacklist.sh
 	
 ##### 3c. IP Version:
 	ip v4 
