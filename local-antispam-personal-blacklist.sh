@@ -3,6 +3,9 @@
 # Script and blacklist urls are being collected at:
 # Google Drive: Custom Exim4 & IPsets Blacklists
 #
+# I removed this because I added it through DNS at /etc/exim4/dnsbl.conf
+# https://www.nixspam.net/download/nixspam-ip.dump.gz # NixSpam - IP Dump
+#
 
 BLACKLISTS=(
       "https://lists.blocklist.de/lists/courierimap.txt" # Blocklist.de - Courier Imap
@@ -13,7 +16,6 @@ BLACKLISTS=(
       "https://lists.blocklist.de/lists/pop3.txt" # Blocklist.de - Pop3
       "https://lists.blocklist.de/lists/postfix.txt" # Blocklist.de - Postfix
       "https://sigs.interserver.net/iprbl.txt" # InterShield - Full
-      "https://www.nixspam.net/download/nixspam-ip.dump.gz" # NixSpam - IP Dump
       "https://www.spamhaus.org/drop/drop.txt" # SpamHaus - Droplist
       "https://www.spamhaus.org/drop/edrop.txt" # SpamHaus - Extended Droplist
 )
