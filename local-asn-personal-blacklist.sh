@@ -15,6 +15,7 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/211252/ipv4-aggregated.txt" # AS211252 (DELIS) Delis LLC
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/36352/ipv4-aggregated.txt"  # AS36352 (COLOCROSSING) ColoCrossing
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/4766/ipv4-aggregated.txt" # AS4766 (KIXS) Korea Telecom
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/262197/ipv4-aggregated.txt" # AS262197 (MILLICOM-CABLE-COSTA-RICA) MILLICOM CABLE COSTA RICA S.A. 
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
