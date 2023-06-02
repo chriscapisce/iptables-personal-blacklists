@@ -16,6 +16,7 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/36352/ipv4-aggregated.txt"  # AS36352 (COLOCROSSING) ColoCrossing
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/4766/ipv4-aggregated.txt" # AS4766 (KIXS) Korea Telecom
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/262197/ipv4-aggregated.txt" # AS262197 (MILLICOM-CABLE-COSTA-RICA) MILLICOM CABLE COSTA RICA S.A. 
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/263333/ipv4-aggregated.txt" # AS263333 (VIPTURBO-COMRCIO-SERVIOS) VIPTURBO COMRCIO & SERVIOS DE INFORMTICA LTDA
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
