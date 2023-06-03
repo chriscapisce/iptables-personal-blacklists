@@ -20,6 +20,7 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/31235/ipv4-aggregated.txt" # AS31235 (SKIWEBCENTER) SKIWEBCENTER SARL
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/12400/ipv4-aggregated.txt" # AS12400 (PARTNER) Partner Communications Ltd.
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/16116/ipv4-aggregated.txt" # AS16116 (PELEPHONE-COMMUNICATIONS-LTD) Pelephone Communications Ltd.
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/28146/ipv4-aggregated.txt" # AS28146 (MHNET-TELECOM) MHNET TELECOM
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
