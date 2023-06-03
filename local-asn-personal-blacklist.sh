@@ -21,6 +21,7 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/12400/ipv4-aggregated.txt" # AS12400 (PARTNER) Partner Communications Ltd.
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/16116/ipv4-aggregated.txt" # AS16116 (PELEPHONE-COMMUNICATIONS-LTD) Pelephone Communications Ltd.
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/28146/ipv4-aggregated.txt" # AS28146 (MHNET-TELECOM) MHNET TELECOM
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20001/ipv4-aggregated.txt" # AS20001 (TWC-PACWEST) Charter Communications Inc
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
