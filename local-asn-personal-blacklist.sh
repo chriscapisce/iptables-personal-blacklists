@@ -14,17 +14,17 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/51447/ipv4-aggregated.txt"  # AS51447 (ROOTLAYERNET) RootLayer Web Services Ltd.
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/211252/ipv4-aggregated.txt" # AS211252 (DELIS) Delis LLC
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/36352/ipv4-aggregated.txt"  # AS36352 (COLOCROSSING) ColoCrossing
-        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/4766/ipv4-aggregated.txt" # AS4766 (KIXS) Korea Telecom
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/4766/ipv4-aggregated.txt"   # AS4766 (KIXS) Korea Telecom
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/262197/ipv4-aggregated.txt" # AS262197 (MILLICOM-CABLE-COSTA-RICA) MILLICOM CABLE COSTA RICA S.A. 
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/263333/ipv4-aggregated.txt" # AS263333 (VIPTURBO-COMRCIO-SERVIOS) VIPTURBO COMRCIO & SERVIOS DE INFORMTICA LTDA
-        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/31235/ipv4-aggregated.txt" # AS31235 (SKIWEBCENTER) SKIWEBCENTER SARL
-        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/12400/ipv4-aggregated.txt" # AS12400 (PARTNER) Partner Communications Ltd.
-        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/16116/ipv4-aggregated.txt" # AS16116 (PELEPHONE-COMMUNICATIONS-LTD) Pelephone Communications Ltd.
-        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/28146/ipv4-aggregated.txt" # AS28146 (MHNET-TELECOM) MHNET TELECOM
-        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20001/ipv4-aggregated.txt" # AS20001 (TWC-PACWEST) Charter Communications Inc
-        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20115/ipv4-aggregated.txt" # AS20115 (CHARTER) Charter Communications
-        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33667/ipv4-aggregated.txt" # AS33667 (CMCS) Comcast Cable Communications, LLC
-        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33668/ipv4-aggregated.txt" # AS33668 (CMCS) Comcast Cable Communications, LLC
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/31235/ipv4-aggregated.txt"  # AS31235 (SKIWEBCENTER) SKIWEBCENTER SARL
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/12400/ipv4-aggregated.txt"  # AS12400 (PARTNER) Partner Communications Ltd.
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/16116/ipv4-aggregated.txt"  # AS16116 (PELEPHONE-COMMUNICATIONS-LTD) Pelephone Communications Ltd.
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/28146/ipv4-aggregated.txt"  # AS28146 (MHNET-TELECOM) MHNET TELECOM
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20001/ipv4-aggregated.txt"  # AS20001 (TWC-PACWEST) Charter Communications Inc
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20115/ipv4-aggregated.txt"  # AS20115 (CHARTER) Charter Communications
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33667/ipv4-aggregated.txt"  # AS33667 (CMCS) Comcast Cable Communications, LLC
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33668/ipv4-aggregated.txt"  # AS33668 (CMCS) Comcast Cable Communications, LLC
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/198896/ipv4-aggregated.txt" # AS198896 (CITYLAN) CITYLAN Sp. z o.o.
 )
 
