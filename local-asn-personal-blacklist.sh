@@ -22,6 +22,7 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/16116/ipv4-aggregated.txt" # AS16116 (PELEPHONE-COMMUNICATIONS-LTD) Pelephone Communications Ltd.
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/28146/ipv4-aggregated.txt" # AS28146 (MHNET-TELECOM) MHNET TELECOM
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20001/ipv4-aggregated.txt" # AS20001 (TWC-PACWEST) Charter Communications Inc
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33668/ipv4-aggregated.txt" # AS33668 (CMCS) Comcast Cable Communications, LLC
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
