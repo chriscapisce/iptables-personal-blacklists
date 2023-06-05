@@ -26,6 +26,7 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/12271/ipv4-aggregated.txt"  # AS12271 (TWC-NYC) Charter Communications Inc
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33667/ipv4-aggregated.txt"  # AS33667 (CMCS) Comcast Cable Communications, LLC
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33668/ipv4-aggregated.txt"  # AS33668 (CMCS) Comcast Cable Communications, LLC
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20214/ipv4-aggregated.txt" # AS20214 (COMCAST) Comcast Cable Communications, LLC
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/198896/ipv4-aggregated.txt" # AS198896 (CITYLAN) CITYLAN Sp. z o.o.
 )
 
