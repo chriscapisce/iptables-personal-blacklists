@@ -28,6 +28,7 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33668/ipv4-aggregated.txt"  # AS33668 (CMCS) Comcast Cable Communications, LLC
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20214/ipv4-aggregated.txt"  # AS20214 (COMCAST) Comcast Cable Communications, LLC
         "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/198896/ipv4-aggregated.txt" # AS198896 (CITYLAN) CITYLAN Sp. z o.o.
+        "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/27983/ipv4-aggregated.txt" # AS27983 (RED-INTERCABLE-DIGITAL) Red Intercable Digital S.A. - Argentina
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
