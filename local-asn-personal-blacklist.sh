@@ -34,6 +34,7 @@ BLACKLISTS=(
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33668/ipv4-aggregated.txt" # AS33668 (CMCS) Comcast Cable Communications, LLC - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20214/ipv4-aggregated.txt" # AS20214 (COMCAST) Comcast Cable Communications, LLC - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33652/ipv4-aggregated.txt" # AS33652 (CMCS) Comcast Cable Communications, LLC - United States
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/11404/ipv4-aggregated.txt" # AS11404 (WAVE-1) Wave Broadband - United States
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
