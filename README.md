@@ -11,7 +11,11 @@ I have two types or resources for IPtables blacklists within HestiaCP.
 #### 2. Remote blacklists based on a .txt file. These files are hosted on f.e. Github.
 
     https://raw.githubusercontent.com/chriscapisce/iptables-personal-blacklists/main/single-ips-personal-blacklist.txt
-    
+
+
+#### 3. Read how to configure them: 
+
+    https://github.com/chriscapisce/iptables-personal-blacklists/blob/main/Configure-Local-Blacklists.md
     
     
 
