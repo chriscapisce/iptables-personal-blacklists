@@ -13,9 +13,9 @@ I have two types or resources for IPtables blacklists within HestiaCP.
     https://raw.githubusercontent.com/chriscapisce/iptables-personal-blacklists/main/single-ips-personal-blacklist.txt
 
 
-#### 3. Read how to configure them: 
+#### 3. Read how to configure local blacklists: 
 
-    (https://github.com/chriscapisce/iptables-personal-blacklists/blob/main/Configure-Local-Blacklists.md)
+    [Configure Local Blacklists](https://github.com/chriscapisce/iptables-personal-blacklists/blob/main/Configure-Local-Blacklists.md)
     
     
 
