@@ -36,6 +36,7 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ug/ipv4-aggregated.txt" # Uganda (UG)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ua/ipv4-aggregated.txt" # Ukraine (UA)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/vn/ipv4-aggregated.txt" # Vietnam (VN))
+)
 
 IP_BLACKLIST_TMP=$(mktemp)
 for i in "${BLACKLISTS[@]}"; do
