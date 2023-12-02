@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script and blacklist urls are being collected at:
-# https://github.com/chriscapisce/iptables-personal-blocklist
+# https://github.com/chriscapisce/iptables-personal-blacklist
 #
 
 BLACKLISTS=(
