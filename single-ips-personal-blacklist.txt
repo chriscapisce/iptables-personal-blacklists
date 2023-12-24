@@ -1,9 +1,10 @@
 # Single IPs
-# Self generated list based on fail2ban log.
+# AS394711 (LIMENET)
 45.66.231.0/24
 45.89.247.0/24
 91.92.240.0/20
 94.156.64.0/21
+# Self generated list based on fail2ban log.
 18.144.174.244
 31.214.245.157
 34.209.140.239
