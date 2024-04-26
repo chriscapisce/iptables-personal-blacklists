@@ -26,6 +26,9 @@ BLACKLISTS=(
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/4766/ipv4-aggregated.txt" # AS4766 (KIXS) Korea Telecom - South Korea
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/7470/ipv4-aggregated.txt" # AS7470 (TRUEINTERNET-AP) TRUE INTERNET CORPORATION CO. LTD. - Thailand
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/16135/ipv4-aggregated.txt" # AS16135 (TURKCELL) TURKCELL ILETISIM HIZMETLERI A.S. - Turkey
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/398324/ipv4-aggregated.txt" # AS398324 (CENSYS-ARIN-01) Censys, Inc. - United States
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/398705/ipv4-aggregated.txt" # AS398705 (CENSYS-ARIN-02) Censys, Inc. - United States
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/398722/ipv4-aggregated.txt" # AS398722 (CENSYS-ARIN-03) Censys, Inc. - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/11351/ipv4-aggregated.txt" # AS11351 (TWC-NORTHEAST) Charter Communications Inc - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/11404/ipv4-aggregated.txt" # AS11404 (WAVE-1) Wave Broadband - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/11426/ipv4-aggregated.txt" # AS11426 (TWC-CAROLINAS) Charter Communications Inc - United States
