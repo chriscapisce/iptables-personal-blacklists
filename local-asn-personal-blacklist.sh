@@ -2,7 +2,7 @@
 
 # Script and blacklist urls are being collected at:
 # https://github.com/chriscapisce/iptables-personal-blacklist
-#
+# https://ipapi.is/most-abusive-asn.html
 
 BLACKLISTS=(
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/271922/ipv4-aggregated.txt" # AS271922 (LEIRIA-HUGO-LEANDRO) LEIRIA HUGO LEANDRO (GEO FIBER) - Argentina
