@@ -1,6 +1,8 @@
 #!/bin/bash
 # Script and blacklist urls are being collected at:
 # Google Drive: Custom Exim4 & IPsets Blacklists
+# Note: Don't add country like USA because Gmail will not work anymore.
+# Blocked Ports: 22,25,465,587,143,993,110,995
 #
 
 BLACKLISTS=(
