@@ -1,5 +1,6 @@
 # Single IPs
 # Self generated list based on fail2ban log.
+38.199.189.134
 81.7.5.12
 75.119.204.71
 109.71.254.170
