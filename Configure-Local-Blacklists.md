@@ -34,9 +34,9 @@ Countries:
 
 	script:/usr/local/hestia/data/firewall/ipset/countries-personal-blacklist.sh
 
-AntiSpam:
+Combined:
 
-	script:/usr/local/hestia/data/firewall/ipset/antispam-personal-blacklist.sh
+	script:/usr/local/hestia/data/firewall/ipset/combined-personal-blacklist.sh
 	
 ##### 3c. IP Version:
 	ip v4 
