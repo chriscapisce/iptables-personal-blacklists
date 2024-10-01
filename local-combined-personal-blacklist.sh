@@ -15,6 +15,7 @@ BLACKLISTS=(
       "https://lists.blocklist.de/lists/mail.txt" # Blocklist.de - Mail
       "https://lists.blocklist.de/lists/pop3.txt" # Blocklist.de - Pop3
       "https://lists.blocklist.de/lists/postfix.txt" # Blocklist.de - Postfix
+      "https://lists.blocklist.de/lists/bots.txt" # Blocklist.de - Bots
       "https://sigs.interserver.net/iprbl.txt" # InterShield - Full
       "https://www.spamhaus.org/drop/drop.txt" # SpamHaus - Droplist
 )
