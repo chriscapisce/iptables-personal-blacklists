@@ -17,7 +17,6 @@ BLACKLISTS=(
       "https://lists.blocklist.de/lists/postfix.txt" # Blocklist.de - Postfix
       "https://sigs.interserver.net/iprbl.txt" # InterShield - Full
       "https://www.spamhaus.org/drop/drop.txt" # SpamHaus - Droplist
-      "https://www.spamhaus.org/drop/edrop.txt" # SpamHaus - Extended Droplist
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
