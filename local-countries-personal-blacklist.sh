@@ -1,13 +1,12 @@
 #!/bin/bash
 # Script and blacklist urls are being collected at:
-# Google Drive: Custom Exim4 & IPsets Blacklists
 # Note: Don't add country like USA because Gmail will not work anymore.
 # Blocked Ports: 22,25,465,587,143,993,110,995
+# Reanabled coutnries: Bulgaria
 #
 
 BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/bd/ipv4-aggregated.txt" # Bangladesh (BD)
-#        "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/bg/ipv4-aggregated.txt" # Bulgaria (BG)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/kh/ipv4-aggregated.txt" # Cambodia (KH)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cv/ipv4-aggregated.txt" # Cape Verde (CV)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cl/ipv4-aggregated.txt" # Chile (CL)
