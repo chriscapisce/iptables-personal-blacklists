@@ -15,6 +15,7 @@ BLACKLISTS=(
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/213010/ipv4-aggregated.txt" # AS213010 (GIGAHOSTINGSERVICES) GigaHostingServices OU - Estonia
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/31235/ipv4-aggregated.txt" # AS31235 (SKIWEBCENTER) SKIWEBCENTER SARL - France
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/44486/ipv4-aggregated.txt" # AS44486 (SYNLINQ) Oliver Horscht is trading as SYNLINQ - Germany
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/200482/ipv4-aggregated.txt" # AS200482 (NEXSERV) nexserv GmbH - Germany
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/12400/ipv4-aggregated.txt" # AS12400 (PARTNER) Partner Communications Ltd. - Israel
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/16116/ipv4-aggregated.txt" # AS16116 (PELEPHONE-COMMUNICATIONS-LTD) Pelephone Communications Ltd. - Israel
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/394711/ipv4-aggregated.txt" # AS394711 (LIMENET) Limenet - Netherlands
