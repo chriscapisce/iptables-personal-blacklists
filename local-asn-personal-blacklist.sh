@@ -8,8 +8,8 @@ BLACKLISTS=(
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/271922/ipv4-aggregated.txt" # AS271922 (LEIRIA-HUGO-LEANDRO) LEIRIA HUGO LEANDRO (GEO FIBER) - Argentina
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/27983/ipv4-aggregated.txt" # AS27983 (RED-INTERCABLE-DIGITAL) Red Intercable Digital S.A. - Argentina
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/51447/ipv4-aggregated.txt" # AS51447 (ROOTLAYERNET) RootLayer Web Services Ltd. - Bangladesh
-"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/263333/ipv4-aggregated.txt" # AS263333 (VIPTURBO-COMRCIO-SERVIOS) VIPTURBO COMRCIO & SERVIOS DE INFORMTICA LTDA - Brazil
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/28146/ipv4-aggregated.txt" # AS28146 (MHNET-TELECOM) MHNET TELECOM - Brazil
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/263333/ipv4-aggregated.txt" # AS263333 (VIPTURBO-COMRCIO-SERVIOS) VIPTURBO COMRCIO & SERVIOS DE INFORMTICA LTDA - Brazil
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/262197/ipv4-aggregated.txt" # AS262197 (MILLICOM-CABLE-COSTA-RICA) MILLICOM CABLE COSTA RICA S.A. - Costa Rica
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/3790/ipv4-aggregated.txt" # AS3790 (RADIOGRAFICA-COSTARRICENSE) RADIOGRAFICA COSTARRICENSE - Costa Rica
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/213010/ipv4-aggregated.txt" # AS213010 (GIGAHOSTINGSERVICES) GigaHostingServices OU - Estonia
@@ -32,21 +32,22 @@ BLACKLISTS=(
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/398324/ipv4-aggregated.txt" # AS398324 (CENSYS-ARIN-01) Censys, Inc. - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/398705/ipv4-aggregated.txt" # AS398705 (CENSYS-ARIN-02) Censys, Inc. - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/398722/ipv4-aggregated.txt" # AS398722 (CENSYS-ARIN-03) Censys, Inc. - United States
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20115/ipv4-aggregated.txt" # AS20115 (CHARTER) Charter Communications - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/11351/ipv4-aggregated.txt" # AS11351 (TWC-NORTHEAST) Charter Communications Inc - United States
-"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/11404/ipv4-aggregated.txt" # AS11404 (WAVE-1) Wave Broadband - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/11426/ipv4-aggregated.txt" # AS11426 (TWC-CAROLINAS) Charter Communications Inc - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/11427/ipv4-aggregated.txt" # AS11427 (TWC-TEXAS) Charter Communications Inc - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/12271/ipv4-aggregated.txt" # AS12271 (TWC-NYC) Charter Communications Inc - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20001/ipv4-aggregated.txt" # AS20001 (TWC-PACWEST) Charter Communications Inc - United States
-"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20115/ipv4-aggregated.txt" # AS20115 (CHARTER) Charter Communications - United States
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/36352/ipv4-aggregated.txt" # AS36352 (COLOCROSSING) ColoCrossing - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/20214/ipv4-aggregated.txt" # AS20214 (COMCAST) Comcast Cable Communications, LLC - United States
-"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/211252/ipv4-aggregated.txt" # AS211252 (DELIS) Delis LLC - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33652/ipv4-aggregated.txt" # AS33652 (CMCS) Comcast Cable Communications, LLC - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33667/ipv4-aggregated.txt" # AS33667 (CMCS) Comcast Cable Communications, LLC - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/33668/ipv4-aggregated.txt" # AS33668 (CMCS) Comcast Cable Communications, LLC - United States
-"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/36352/ipv4-aggregated.txt" # AS36352 (COLOCROSSING) ColoCrossing - United States
-"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/399471/ipv4-aggregated.txt" # AS399471 (SERVERION) Serverion LLC - United States
 "https://raw.githubusercontent.com/ipverse/asn-ip/master/as/7922/ipv4-aggregated.txt" # AS7922 (COMCAST) Comcast Cable Communications, LLC - United States
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/211298/ipv4-aggregated.txt" # AS211298 (INTERNET-MEASUREMENT) Constantine Cybersecurity Ltd. - United States
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/211252/ipv4-aggregated.txt" # AS211252 (DELIS) Delis LLC - United States
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/399471/ipv4-aggregated.txt" # AS399471 (SERVERION) Serverion LLC - United States
+"https://raw.githubusercontent.com/ipverse/asn-ip/master/as/11404/ipv4-aggregated.txt" # AS11404 (WAVE-1) Wave Broadband - United States
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
