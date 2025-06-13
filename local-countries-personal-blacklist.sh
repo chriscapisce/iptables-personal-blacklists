@@ -6,7 +6,10 @@
 #
 
 BLACKLISTS=(
+        "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/dz/ipv4-aggregated.txt" # Algeria (DZ)
+        "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ar/ipv4-aggregated.txt" # Argentina (AR)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/bd/ipv4-aggregated.txt" # Bangladesh (BD)
+        "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/br/ipv4-aggregated.txt" # Brazil (BR)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/kh/ipv4-aggregated.txt" # Cambodia (KH)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cv/ipv4-aggregated.txt" # Cape Verde (CV)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cl/ipv4-aggregated.txt" # Chile (CL)
@@ -28,15 +31,18 @@ BLACKLISTS=(
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/kp/ipv4-aggregated.txt" # North Korea (KP)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/pk/ipv4-aggregated.txt" # Pakistan (PK)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/py/ipv4-aggregated.txt" # Paraguay (PY)
+        "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/pe/ipv4-aggregated.txt" # Peru (PE)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ph/ipv4-aggregated.txt" # Philippines (PH)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ru/ipv4-aggregated.txt" # Russia (RU)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/sg/ipv4-aggregated.txt" # Singapore (SG)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/kr/ipv4-aggregated.txt" # South Korea (KR)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tw/ipv4-aggregated.txt" # Taiwan (TW)
+        "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/th/ipv4-aggregated.txt" # Thailand (TH)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tt/ipv4-aggregated.txt" # Trinidad & Tobago (TT)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ug/ipv4-aggregated.txt" # Uganda (UG)
         "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ua/ipv4-aggregated.txt" # Ukraine (UA)
-        "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/vn/ipv4-aggregated.txt" # Vietnam (VN))
+        "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/uy/ipv4-aggregated.txt" # Uruguay (UY)
+        "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/vn/ipv4-aggregated.txt" # Vietnam (VN)
 )
 
 IP_BLACKLIST_TMP=$(mktemp)
