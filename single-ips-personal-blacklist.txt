@@ -1,6 +1,7 @@
 # Single IPs
 # Self generated list based on fail2ban log.
 212.227.232.0/24
+217.154.229.130
 15.204.20.129
 37.48.67.247
 81.7.5.9
